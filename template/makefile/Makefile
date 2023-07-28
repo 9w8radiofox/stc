@@ -14,7 +14,7 @@ SRC = $(wildcard $(SRCDIR)/*.c)
 OBJ = $(SRC:$(SRCDIR)/%.c=$(BUILDDIR)/%.rel)
 
 # Compiler flags
-CFLAGS = -mmcs51 --model-small --std-sdcc99
+CFLAGS = -mmcs51 --model-small --std-sdcc89
 
 # Linker flags
 LFLAGS = $(CFLAGS)
