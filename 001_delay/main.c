@@ -1,17 +1,5 @@
 #include <stc89.h> 
 
-typedef unsigned char BYTE;
-typedef unsigned int WORD;
-
-/* define constants */
-#define FOSC 11059200L
-
-#define T1MS (65536-FOSC/12/1000)   
-
-__sbit __at (0xAD) ET2  ;               
-__sbit __at (0xCF) TF2  ;
-__sbit __at (0xCA) TR2  ;
-
 /**
  * @brief Set the up timer0
  *        Fastest possible Timer0 count is   35.75 us
