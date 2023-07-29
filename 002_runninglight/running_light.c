@@ -53,11 +53,11 @@ void main(void){
     while (1){
         for(i=0;i<7;i++){
             P2 = (P2<<1);
-            delay(12);
+            delay(1200);
         }
         for(i=0;i<7;i++){
             P2 = (P2>>1);
-            delay(12);
+            delay(1200);
         }
     }
 }
