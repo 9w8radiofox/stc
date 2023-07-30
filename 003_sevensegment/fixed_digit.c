@@ -51,7 +51,7 @@ void int_to_digit(int n){
 void main(void){
     int i, j;
     int framerate = 400;
-    int digit = 1852;
+    int digit = 8152;
 
     P3 = 0xFF;
 
