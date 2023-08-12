@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="29tjg5tKsKRoZI7KfJEE" name="Page-1">
+        <mxGraphModel dx="536" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;" parent="1" vertex="1">
+                    <mxGeometry x="205" y="110" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="6" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;" parent="1" vertex="1">
+                    <mxGeometry x="197" y="230" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="3" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="350" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="5" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;rotation=-85;" parent="1" vertex="1">
+                    <mxGeometry x="141" y="170" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;rotation=95;" parent="1" vertex="1">
+                    <mxGeometry x="261" y="170" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="4" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;rotation=-85;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="290" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;rotation=95;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="290" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="7" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.1;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="327.58" y="353.37" width="33" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

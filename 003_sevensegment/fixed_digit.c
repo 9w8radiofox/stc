@@ -3,16 +3,24 @@
 unsigned char array[4] = {0,0,0,0};
 
 __code unsigned char SEG_CODE[]={
-    0xC0,
-    0xF9,
-    0xA4,
-    0xB0,
-    0x99,
-    0x92,
-    0x82,
-    0xF8,
-    0x80,
-    0x90 
+    0xC0, /*0 - 0*/
+    0xF9, /*1 - 1*/
+    0xA4, /*2 - 2*/
+    0xB0, /*3 - 3*/
+    0x99, /*4 - 4*/
+    0x92, /*5 - 5*/
+    0x82, /*6 - 6*/
+    0xF8, /*7 - 7*/
+    0x80, /*8 - 8*/
+    0x90, /*9 - 9*/
+    0x88, /*A - A*/
+    0x83, /*b - B*/
+    0xA7, /*c - C*/
+    0xA1, /*d - D*/
+    0x86, /*E - E*/
+    0x8E, /*F - F*/
+    0x7F, /*. - 0x10*/
+    0xC6, /*C - 0x11*/
 };
 
 void int_to_digit(int n){
@@ -50,8 +58,8 @@ void int_to_digit(int n){
  */
 void main(void){
     int i, j;
-    int framerate = 400;
-    int digit = 8152;
+    int framerate = 450;
+    int digit = 1968;
 
     P3 = 0xFF;
 
